@@ -1,4 +1,4 @@
-# bot-ip-ranges
+# bot-ip-ranges.sh
 
 Obtiene rangos oficiales de prefijos IP (CIDR) para varios bots/proveedores y
 los entrega en múltiples formatos (texto, JSON, nginx o Apache, que también se

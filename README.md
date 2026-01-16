@@ -1,4 +1,4 @@
-# bot-ip-ranges
+# bot-ip-ranges.sh
 
 Fetch official IP prefix ranges (CIDR) for several bots/providers and output them
 in multiple formats (plain text, JSON, nginx, or Apache, which can also be used
